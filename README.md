@@ -20,3 +20,10 @@
 #Creating a new dataframe from the pivot table
 #resampling
 #creating plt
+Analyzing
+All three line is moving almost parallel. 
+Urban rides have is the best place to earn money then suburban and rural is the worst.
+Although, suburban and rural rides have a slightly increase, they can not reach the level of urban rides.
+If we add suburban and rural total rides, still it is less than urban rides.
+It shows that almost %60 of the income is coming from urban
+%30 percent from suburban and %10 percent from rural rides.
